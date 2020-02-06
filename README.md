@@ -3,7 +3,7 @@
 @rogerson253
 
 <h2>Technology Stack<h2>
-HTML, CSS
+<li>HTML, CSS<li>
 
 <h2>About<h2>
 This is a refactoring of the code for this website.
