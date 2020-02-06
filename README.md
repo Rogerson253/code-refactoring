@@ -1,9 +1,9 @@
 # code-refactoring
-Contributors
+<h2>Contributors<h2>
 @rogerson253
 
-Technology Stack
+<h2>Technology Stack<h2>
 HTML, CSS
 
-About
+<h2>About<h2>
 This is a refactoring of the code for this website.
